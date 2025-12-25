@@ -1,4 +1,4 @@
-🧠 Deep Learning Algorithms Repository  
+🧠  #Deep Learning Algorithms Repository  
 Welcome to my Deep Learning repository! 🚀  
 This repo contains implementations and practice notebooks for core Deep Learning concepts and models.  
 Each folder focuses on one DL topic, including:
